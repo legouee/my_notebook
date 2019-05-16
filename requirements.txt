@@ -1,14 +1,14 @@
 # Requirements 
 
 # Python
-python==?
+python==3.6.2
 python-utils==2.3.0
 utils==0.9.0
 hdf5==1.8.17-2
 
 # For pynwb
 #pynwb==0.2.0
-pynwb==1.0.0          
+pynwb==1.0.1        
 certifi==2018.1.18
 chardet==3.0.4
 h5py==2.9.0
@@ -39,5 +39,8 @@ virtualenv==15.2.0
 
 # For neo
 neo==0.8.0.dev
+
+# To create the NWB file tree
+PyQt==5.11.2
 
 
